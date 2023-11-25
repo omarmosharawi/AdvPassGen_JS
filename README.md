@@ -4,7 +4,7 @@ AdvPassGen_JS is a simple and easy-to-use web application that generates strong 
 
 ## Features
 
-- **Password length**: You can select the length of your password from 8 to 32 characters.
+- **Password length**: You can select the length of your password from 1 to 30 characters.
 - **Character types**: You can choose to include lowercase letters, uppercase letters, numbers, and symbols in your password.
 - **Password complexity**: You can adjust the complexity of your password by using the slider. The higher the complexity, the more random and unpredictable your password will be.
 - **Copy to clipboard**: You can copy your generated password to your clipboard by clicking the copy button.
