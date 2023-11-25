@@ -9,6 +9,9 @@ AdvPassGen_JS is a simple and easy-to-use web application that generates strong 
 - **Password complexity**: You can adjust the complexity of your password by using the slider. The higher the complexity, the more random and unpredictable your password will be.
 - **Copy to clipboard**: You can copy your generated password to your clipboard by clicking the copy button.
 
+## Demo
+You can access the live demo of the web application here: [AdvPassGen_JS](https://omarmosharawi.github.io/AdvPassGen_JS/)
+
 ## How to use
 
 To use AdvPassGen_JS, you need to have a web browser that supports HTML, CSS, and JavaScript. You can either download the source code from this repository and open the index.html file in your browser.
